@@ -1,0 +1,12 @@
+frontend/node_modules/
+frontend/dist/
+backend/target/
+backend/data/
+*.log
+.DS_Store
+AGENTS.md
+sources/
+.env
+.env.*
+.idea/
+.vscode/
